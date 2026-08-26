@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+    printf("\n\t\"Primeiro programa\"");
+    system("PAUSE");
+    return 0;
+}
+/*
+\n quebra uma linha, \t faz uma tabulação e \" coloca as aspas
+
+SAÍDA:
+
+	"Primeiro programa"
+Pressione qualquer tecla para continuar. . .
+*/

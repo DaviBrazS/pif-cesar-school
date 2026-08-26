@@ -1,0 +1,4 @@
+Corretas: a, b, c
+Incorreta: d (falta os parênteses em volta do argumento)
+
+Isso mostra que o compilador C é flexível com espaços em branco entre os tokens (não importa se tem espaço antes/depois dos parênteses), mas exige rigorosamente a sintaxe correta: parênteses e ponto-e-vírgula não podem faltar.

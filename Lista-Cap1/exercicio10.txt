@@ -1,0 +1,3 @@
+Alternativa correta: b)
+
+C diferencia maiúsculas de minúsculas. peso, Peso e PESO são três variáveis diferentes, com endereços de memória diferentes.

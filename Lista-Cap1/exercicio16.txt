@@ -1,0 +1,3 @@
+Alternativa correta: c)
+
+Diretivas com # são lidas pelo pré-processador, fase que roda antes da compilação propriamente dita.

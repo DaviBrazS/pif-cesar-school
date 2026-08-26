@@ -1,0 +1,8 @@
+a) int a;              -> Correto
+b) float b;             -> Correto
+c) double float c;      -> Incorreto - não pode combinar dois tipos base diferentes (double e float) numa mesma declaração, sintaxe inválida
+d) unsigned char d;     -> Correto
+e) unsigned e;          -> Correto (unsigned sozinho equivale a unsigned int)
+f) long float f;        -> Incorreto - "long float" não é uma combinação de tipo válida em C ANSI
+g) long g;              -> Correto (long equivale a long int)
+h) long double h;       -> Correto

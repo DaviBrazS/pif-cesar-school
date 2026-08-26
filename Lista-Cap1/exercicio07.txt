@@ -1,0 +1,41 @@
+a) printf("\n\tBom dia! Shirley.");
+/*
+
+	Bom dia! Shirley.
+
+    pula uma linha, dá um espaço de tabulação e escreve
+    */
+
+b) printf("Você já tomou café? \n");
+/*
+Você já tomou café? 
+
+    escreve "Você já tomou café?" e pula uma linha
+*/
+
+c) printf("\n\nA solução não existe!\nNão insista.");
+/*
+
+
+A solução não existe!
+Não insista.
+
+    pula duas linhas, escreve "A solução não existe!", pula uma linha e escreve "Não insista."
+*/
+
+d) printf("Duas\tlinhas\tde\tsaída\nou\tuma?");
+/*
+Duas	linhas	de	saída
+ou	uma?
+
+    escreve as palavras separadas por tabulações, pula uma linha e escreve "ou" e "uma?" separados por tabulação
+*/
+
+e) printf("%s\n%s\n%s\n", "um", "dois", "três");
+/*
+um
+dois
+três
+
+    imprime "um", "dois" e "três", cada um em uma linha
+*/
