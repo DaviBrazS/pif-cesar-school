@@ -1,3 +1,0 @@
-Alternativa correta: c)
-
-Headers são arquivos de texto ASCII com protótipos de funções, definição de constantes, macros e tipos - não são binários nem executados pelo processador.

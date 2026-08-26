@@ -1,3 +1,0 @@
-Alternativa correta: a)
-
-Incluir <stdio.h> instrui o compilador a conhecer as definições das funções da biblioteca padrão antes de compilar o código.

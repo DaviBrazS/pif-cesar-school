@@ -1,3 +1,0 @@
-Alternativa correta: c)
-
-#include é uma diretiva de pré-processador, executada antes da compilação, não uma instrução C.
