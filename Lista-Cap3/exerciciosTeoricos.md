@@ -82,6 +82,3 @@ while (x < 5) {
 x++;
 printf("Valor final de x = %d\n", x);
 ```
-
-
-// teste
